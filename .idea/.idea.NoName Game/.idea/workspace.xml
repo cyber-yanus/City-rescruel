@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d7d091-8f40-41ea-849d-e98f9f89da44" name="Default Changelist" comment="" />
+    <list default="true" id="66d7d091-8f40-41ea-849d-e98f9f89da44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NoName Game/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoName Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoName Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoName Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoName Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <marker date="1604434105252" expanded="true" signature="6:37" ph="..." />
                 <marker date="1604434105252" expanded="true" signature="65:826" ph="{...}" />
@@ -71,23 +77,23 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
               <folding>
-                <marker date="1604435079981" expanded="true" signature="46:657" ph="{...}" />
-                <marker date="1604435079981" expanded="true" signature="96:655" ph="{...}" />
-                <marker date="1604435079981" expanded="true" signature="226:282" ph="{...}" />
-                <marker date="1604435079981" expanded="true" signature="327:648" ph="{...}" />
-                <marker date="1604435079981" expanded="true" signature="395:638" ph="{...}" />
+                <marker date="1604439137169" expanded="true" signature="46:655" ph="{...}" />
+                <marker date="1604439137169" expanded="true" signature="96:653" ph="{...}" />
+                <marker date="1604439137169" expanded="true" signature="226:282" ph="{...}" />
+                <marker date="1604439137169" expanded="true" signature="327:646" ph="{...}" />
+                <marker date="1604439137169" expanded="true" signature="395:636" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Trampoline/MoveHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
-              <caret line="41" column="71" lean-forward="true" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+              <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
               <folding>
                 <marker date="1604437373280" expanded="false" signature="6:83" ph="..." />
                 <marker date="1604437373280" expanded="true" signature="111:1629" ph="{...}" />
@@ -103,12 +109,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/People.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <folding>
+                <marker date="1604439411562" expanded="true" signature="6:53" ph="..." />
+                <marker date="1604439411562" expanded="true" signature="81:837" ph="{...}" />
+                <marker date="1604439411562" expanded="true" signature="123:835" ph="{...}" />
+                <marker date="1604439411562" expanded="true" signature="230:349" ph="{...}" />
+                <marker date="1604439411562" expanded="true" signature="406:811" ph="{...}" />
+                <marker date="1604439411562" expanded="true" signature="498:789" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93CC9D9D-D3CB-438F-827B-811749B7E486/88/d0d041a7/NativeInputSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Trampoline/AppearanceTrampoline.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RagdollController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/People.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrampolineConveyor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -146,8 +182,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Trampoline/Trampoline.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Trampoline/MoveHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/People.cs" />
       </list>
     </option>
   </component>
@@ -157,6 +194,7 @@
     <option name="width" value="1298" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,10 +261,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="28120">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="38636">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="28120" />
+      <option name="pid" value="38636" />
       <method v="2" />
     </configuration>
   </component>
@@ -247,12 +285,12 @@
       <workItem from="1604138825841" duration="2469000" />
       <workItem from="1604172958635" duration="1644000" />
       <workItem from="1604235888784" duration="4043000" />
-      <workItem from="1604328659092" duration="18898000" />
+      <workItem from="1604328659092" duration="20918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75388000" />
+    <option name="totallyTimeSpent" value="77408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,9 +303,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20411569" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20411569" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -339,6 +376,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/People.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/People.cs" initialLine="18">
+            <startOffsets>
+              <option value="429" />
+            </startOffsets>
+            <endOffsets>
+              <option value="459" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -351,13 +401,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CopyMotion.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93CC9D9D-D3CB-438F-827B-811749B7E486/88/d0d041a7/NativeInputSystem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Lava.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/ClTrigger.cs" />
@@ -462,7 +505,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <marker date="1604434105252" expanded="true" signature="6:37" ph="..." />
             <marker date="1604434105252" expanded="true" signature="65:826" ph="{...}" />
@@ -491,20 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-          <folding>
-            <marker date="1604435079981" expanded="true" signature="46:657" ph="{...}" />
-            <marker date="1604435079981" expanded="true" signature="96:655" ph="{...}" />
-            <marker date="1604435079981" expanded="true" signature="226:282" ph="{...}" />
-            <marker date="1604435079981" expanded="true" signature="327:648" ph="{...}" />
-            <marker date="1604435079981" expanded="true" signature="395:638" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Trampoline/Trampoline.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -527,7 +556,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Trampoline/MoveHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="41" column="71" lean-forward="true" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
           <folding>
             <marker date="1604437373280" expanded="false" signature="6:83" ph="..." />
             <marker date="1604437373280" expanded="true" signature="111:1629" ph="{...}" />
@@ -538,6 +567,42 @@
             <marker date="1604437373280" expanded="true" signature="956:1189" ph="{...}" />
             <marker date="1604437373280" expanded="true" signature="1249:1420" ph="{...}" />
             <marker date="1604437373280" expanded="true" signature="1481:1621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TargetPosition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+          <folding>
+            <marker date="1604439137169" expanded="true" signature="46:655" ph="{...}" />
+            <marker date="1604439137169" expanded="true" signature="96:653" ph="{...}" />
+            <marker date="1604439137169" expanded="true" signature="226:282" ph="{...}" />
+            <marker date="1604439137169" expanded="true" signature="327:646" ph="{...}" />
+            <marker date="1604439137169" expanded="true" signature="395:636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93CC9D9D-D3CB-438F-827B-811749B7E486/88/d0d041a7/NativeInputSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/People.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <marker date="1604439411562" expanded="true" signature="6:53" ph="..." />
+            <marker date="1604439411562" expanded="true" signature="81:837" ph="{...}" />
+            <marker date="1604439411562" expanded="true" signature="123:835" ph="{...}" />
+            <marker date="1604439411562" expanded="true" signature="230:349" ph="{...}" />
+            <marker date="1604439411562" expanded="true" signature="406:811" ph="{...}" />
+            <marker date="1604439411562" expanded="true" signature="498:789" ph="{...}" />
           </folding>
         </state>
       </provider>

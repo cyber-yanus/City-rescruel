@@ -20,7 +20,7 @@ namespace DefaultNamespace
             if (_currentChildNumber < people.childCount) 
             {
                 Vector2 newPosition = people.GetChild(_currentChildNumber).position;
-                transform.position = new Vector3(newPosition.x, newPosition.y, 4.5f);
+                transform.position = new Vector3(newPosition.x, newPosition.y, 5f);
 
                 _currentChildNumber++;    
             }

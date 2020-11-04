@@ -337,6 +337,7 @@
           <e p="CameraController.cs" t="Include" />
           <e p="Car.cs" t="Include" />
           <e p="Move.cs" t="Include" />
+          <e p="People.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="RagdollController.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
